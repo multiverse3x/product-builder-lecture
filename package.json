@@ -1,0 +1,11 @@
+{
+  "name": "product-builder",
+  "version": "1.0.0",
+  "description": "Simple product builder project",
+  "main": "main.js",
+  "scripts": {
+    "build": "echo 'No build step required'"
+  },
+  "author": "",
+  "license": "ISC"
+}
